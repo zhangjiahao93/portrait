@@ -1,0 +1,12 @@
+.form-horizontal .control-label{padding-top: 5px;}
+.smpic{
+	margin-left: 10px;
+	position: relative;
+	overflow: hidden;
+	float: left;
+	background-color: #eee
+ /*border: 5px solid #6f4da2;*/;
+}
+.image_dispaly{
+	display: none;
+}

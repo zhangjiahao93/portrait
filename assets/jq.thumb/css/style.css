@@ -1,0 +1,20 @@
+#thumb_main{
+	width: 500px;
+	min-height:100px;
+	position: relative;
+	float: left;
+	background-color: #eee;
+}
+#thumb{
+	margin-left: 10px;
+	width: 100px;
+	height: 100px;
+	position: relative;
+	overflow: hidden;
+	float: left;
+	background-color: #eee
+	/*border: 5px solid #6f4da2;*/
+}
+.mr10{
+	margin: 5px 5px 5px 0;
+}
