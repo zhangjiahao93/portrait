@@ -1,0 +1,18 @@
+{
+    "name": "zjh/yii2-portrait",
+    "description": "desc",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zjh",
+            "email": "695427431@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "zjh\\portrait\\": ""
+        }
+    }
+}
