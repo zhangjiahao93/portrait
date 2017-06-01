@@ -1,6 +1,6 @@
 <?php
 namespace zjh\portrait\models;
-use common\models\ImageCompression;
+use zjh\portrait\models\ImageCompression;
 use Yii;
 //需要依赖 ImageCompression
 class CutPic extends \yii\base\Object{
