@@ -8,7 +8,7 @@ use Yii;
 use zjh\portrait\models\ImageUploadForm;
 use zjh\portrait\models\CutPic;
 use zjh\portrait\models\User;
-
+Yii::setAlias('@zjh', dirname(__DIR__));
 //通用动作测试
 class PortraitAction extends Action
 {
